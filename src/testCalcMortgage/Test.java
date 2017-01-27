@@ -16,7 +16,7 @@ public class Test {
 			float r; // interest rate
 			System.out.print("Enter monthly interest rate: ");
 			r = input.nextFloat();
-			System.out.println(r);
+			//System.out.println(r);
 			
 			int n; // number of payments
 			System.out.print("Enter number of monthly payments: ");

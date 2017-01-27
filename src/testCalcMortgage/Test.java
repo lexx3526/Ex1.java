@@ -11,7 +11,7 @@ public class Test {
 			double l; // mortgage amount
 			System.out.print("Enter mortgage amount: ");
 			l = input.nextDouble();
-			//System.out.println(l);
+			System.out.println(l);
 			
 			float r; // interest rate
 			System.out.print("Enter monthly interest rate: ");

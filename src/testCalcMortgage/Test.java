@@ -9,7 +9,7 @@ public class Test {
 			Scanner input = new Scanner(System.in);
 			
 			double l; // mortgage amount
-			System.out.print("Enter mortgage amount:");
+			System.out.print("Enter mortgage amount: ");
 			l = input.nextDouble();
 			//System.out.println(l);
 			

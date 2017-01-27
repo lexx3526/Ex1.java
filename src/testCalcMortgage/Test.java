@@ -21,6 +21,6 @@ public class Test {
 			int n; // number of payments
 			System.out.print("Enter number of monthly payments: ");
 			n = input.nextInt();
-			//System.out.println(n);
+			System.out.println(n);
 		}
 }
